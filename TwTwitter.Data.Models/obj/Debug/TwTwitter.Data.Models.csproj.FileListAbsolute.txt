@@ -1,0 +1,14 @@
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\bin\Debug\TwTwitter.Data.Models.dll.config
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\bin\Debug\TwTwitter.Data.Models.dll
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\bin\Debug\TwTwitter.Data.Models.pdb
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\bin\Debug\EntityFramework.dll
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\bin\Debug\EntityFramework.xml
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\obj\Debug\TwTwitter.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\obj\Debug\TwTwitter.Data.Models.dll
+C:\Users\Loraine\Documents\Visual Studio 2013\Projects\TwTwitter\TwTwitter.Data.Models\obj\Debug\TwTwitter.Data.Models.pdb
